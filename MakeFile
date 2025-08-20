@@ -1,0 +1,1 @@
+forge script script/Interactions.s.sol:FundSubscription --rpc-url $SEPOLIA_RPC_URL --account $ACCOUNT --broadcast -vvvv
